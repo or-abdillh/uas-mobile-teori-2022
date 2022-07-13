@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939151333454",
+    "project_id": "coffee-20197",
+    "storage_bucket": "coffee-20197.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939151333454:android:66f6446f2f9f5d9820cb1f",
+        "android_client_info": {
+          "package_name": "com.naufal.coffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939151333454-ctml7b0rb8lku8i5jqdtr0pj9kpa8870.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzzgFaOMjKuVjCqSIbASrFPRsbnQ7ApFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939151333454-ctml7b0rb8lku8i5jqdtr0pj9kpa8870.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

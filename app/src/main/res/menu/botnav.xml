@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/FDmenu"
+        android:icon="@drawable/ic_baseline_menu_24"
+        android:title="Menu Coffee"/>
+    <item
+        android:id="@+id/FDpesanan"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:title="Pesanan"/>
+    <item
+        android:id="@+id/FDprofil"
+        android:icon="@drawable/ic_baseline_contact_emergency_24"
+        android:title="Profil"/>
+
+</menu>
